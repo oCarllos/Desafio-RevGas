@@ -8,6 +8,8 @@ Aplicação feita em Java se conectando por meio de JDBC com um MySQL
 O espaço de trabalho contém duas pastas por padrão, onde:
 
 - `src`
-- `lib` 
+- `lib`
+- Comandos GETS, Pegar por ID | Pegar Todos
+- HTML
 
 Enquanto isso, os arquivos de saída compilados serão gerados na pasta `bin` por padrão.
